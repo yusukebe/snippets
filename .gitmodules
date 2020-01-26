@@ -1,0 +1,3 @@
+[submodule "p5/design-patterns"]
+	path = p5/design-patterns
+	url = git@github.com:yusukebe/p5-design-patterns.git

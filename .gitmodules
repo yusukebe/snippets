@@ -4,3 +4,6 @@
 [submodule "raku/design-pattern"]
 	path = raku/design-pattern
 	url = git@github.com:yusukebe/p6-design-patterns.git
+[submodule "ruby/design-pattern"]
+	path = ruby/design-pattern
+	url = git@github.com:yusukebe/ruby-design-patterns.git
